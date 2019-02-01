@@ -11,6 +11,9 @@ body {
   font-size:40px;
   margin-right: auto;
 }
+.Topbar {
+  margin-top: 41px;
+}
 .move-left {
   margin-right: auto;
   justify-self: flex-start;
@@ -21,6 +24,7 @@ body {
   text-align:center;
   margin-top: 74px;
   height: 584px;
+  padding-top: 87px;
 
 }
 .tab{
@@ -40,4 +44,8 @@ a:hover {
 }
 body {
   font-family: 'KoHo', sans-serif;
+}
+img {
+  border-radius: 82px;
+ border: 14px solid #ffffff47;
 }
