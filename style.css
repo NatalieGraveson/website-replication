@@ -49,3 +49,9 @@ img {
   border-radius: 82px;
  border: 14px solid #ffffff47;
 }
+button {
+  size:20px;
+}
+.btn-outline-light {
+    font-size: 36px;
+}
